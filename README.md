@@ -1,4 +1,5 @@
 # Applying self-attention to detect hand face interactions with Apple Watch
+This repo contains key code used for the project. Data is missing since I don't own the rights to it.
 
 ## Train_attention.ipynb
 Main notebook to train all models and generate all results. 
